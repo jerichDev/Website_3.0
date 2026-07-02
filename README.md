@@ -2,7 +2,7 @@
 This will serve as future reference for my web-development career.
 
 ## Objectives
-'''python
+'''
 making myself good at designing things in the future
 use to boost my ability to design
 more concepts to come
